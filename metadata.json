@@ -1,0 +1,6 @@
+{
+  "name": "AI 视频配音·个人工作台 Pro",
+  "description": "基于 Gemini 多模态原生解析的端到端视频配音剧本审查与生成系统。提供多角色配置、时长字符限制自适应校验与自动缩写精简。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
