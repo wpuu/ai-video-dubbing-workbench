@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
   <h1>AI Video Dubbing Workbench Pro</h1>
   <p>An end-to-end video dubbing script review and generation system based on Gemini's multimodal native parsing.</p>
 </div>
